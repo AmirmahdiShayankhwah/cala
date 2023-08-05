@@ -1,0 +1,6 @@
+D:\abc\prodoct cala\prodoct cala\obj\Debug\prodoct cala.csprojResolveAssemblyReference.cache
+D:\abc\prodoct cala\prodoct cala\bin\Debug\prodoct cala.exe.config
+D:\abc\prodoct cala\prodoct cala\bin\Debug\prodoct cala.exe
+D:\abc\prodoct cala\prodoct cala\bin\Debug\prodoct cala.pdb
+D:\abc\prodoct cala\prodoct cala\obj\Debug\prodoct cala.exe
+D:\abc\prodoct cala\prodoct cala\obj\Debug\prodoct cala.pdb
